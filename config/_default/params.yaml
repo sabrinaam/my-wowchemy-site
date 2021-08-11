@@ -5,55 +5,55 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
-font: ''
-font_size: L
+font: 'classic'
+font_size: m
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'PhD Student @ Virginia Tech'
+twitter: 'amorimsab'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: asabrina@vt.edu
+phone: +1 (540) 988-6870
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 175 West Campus Drive
+  city: Blacksburg
+  region: VA
+  postcode: '24060'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#coordinates:
+  #latitude: '37.4275'
+  #longitude: '-122.1697'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/amorimsab'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'skype:sabrina-amorim'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
